@@ -337,6 +337,37 @@ This project demonstrates that Artificial Intelligence and predictive analytics 
 - Git & GitHub
 
 
+# ▶️ How to Run the Project
+
+### Option 1: Open in Google Colab (Recommended)
+
+Click the link below to explore and run the notebook directly in your browser:
+
+📒 **Google Colab Notebook**
+
+https://colab.research.google.com/drive/1OMdnSAv4Ud1mpU1NRU6nwaet2bp-493n?usp=sharing
+
+
+No installation is required.
+
+---
+
+### Option 2: Run Locally
+
+1. Clone the repository.
+2. Install the required Python libraries.
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Open the notebook located in:
+
+```text
+notebooks/Financial_Fraud_Detection.ipynb
+```
+
+
 
 
 
